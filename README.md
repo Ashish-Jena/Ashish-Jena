@@ -1,4 +1,6 @@
-<h1 align="left">Hi 👋, I'm @Ashish-Jena</h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hello Folks!, I am <a href="https://github.com/ashish-jena">Ashish Jena</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+</h1>
+
 <h3 align="left">I'm a Professional Data Associate working on ALexa Devices for Amazon and also immensely interested in working on data as an aspiring Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-jena&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-jena" /> </p>
@@ -24,3 +26,6 @@
 
 <p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=ashish-jena&show_icons=true&locale=en" alt="ashish-jena" /></p>
 
+## Stargazers
+
+[![Stargazers repo roster for @ashish-jena/ashish-jena](https://reporoster.com/stars/ashish-jena/ashish-jena)](https://github.com/ashish-jena/ashish-jena/stargazers)
