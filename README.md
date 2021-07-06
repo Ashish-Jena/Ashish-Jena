@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm @Ashish-Jena</h1>
-<h3 align="center">I'm a Professional Data Associate working on ALexa Devices for Amazon and also immensely interested in working on data as an aspiring Data Scientist</h3>
+<h1 align="left">Hi 👋, I'm @Ashish-Jena</h1>
+<h3 align="left">I'm a Professional Data Associate working on ALexa Devices for Amazon and also immensely interested in working on data as an aspiring Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-jena&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-jena" /> </p>
 
